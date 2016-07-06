@@ -1,0 +1,4 @@
+.*.sw[pon]
+*.gcode
+parts/blocks/blocks/*.stl
+/parts/curved_back/internal.standard/walls/*.stl
